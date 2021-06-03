@@ -1,0 +1,37 @@
+.header{
+	background-color: blue;
+}
+.contact-1 {
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+    text-indent: 10px;
+    margin-top:10px;
+}
+.navbar-brand-1{
+	text-align: center;
+	font-weight: 900;
+
+}
+a.navbar-brand{
+	font-size: 28px
+}
+.navbar-brand-2{
+	font-weight: 600;
+	font-size: 18px;
+
+}
+.nav-item{
+	margin:5px 5px 5px 5px;
+}
+a.btn-primary{
+	border-radius: 25px;
+}
+h1.display-4 {
+    font-weight: 800;
+}
+.img{
+	height: 100%;
+	width: 100%;
+	background-image: url(https://4.bp.blogspot.com/-2FOAfDJLeBw/XNvMxo-2LYI/AAAAAAAAGdQ/_9cFOU_DIvYpcExeXHTo7450ZUWgvGvSACLcBGAs/s1600/bao%2Bhiem%2Bsuc%2Bkhoe%2Bcao%2Bcap%2Bhealthcare.jpg);
+}
